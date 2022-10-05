@@ -1,2 +1,2 @@
-import s
-s.xxx()
+import ss
+ss.xxx()
