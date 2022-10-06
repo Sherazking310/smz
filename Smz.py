@@ -1,0 +1,2 @@
+import SMZ
+SMZ.Main()
