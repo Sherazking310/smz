@@ -1,2 +1,0 @@
-import ss
-ss.xxx()
